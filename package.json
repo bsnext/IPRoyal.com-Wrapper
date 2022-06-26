@@ -1,0 +1,30 @@
+{
+  "name": "iproyal-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for API of https://iproyal.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salwador/iproyal-wrapper.git"
+  },
+  "keywords": [
+    "api",
+    "wrapper",
+    "iproyal",
+    "residential",
+    "reseller",
+    "proxy"
+  ],
+  "author": "SalwadoR & Eugene27r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salwador/iproyal-wrapper/issues"
+  },
+  "homepage": "https://github.com/salwador/iproyal-wrapper#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
+}
